@@ -15,11 +15,26 @@ namespace HelloMVC.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var fullname = (Firstname:"John" , Lastname:"Doe");
+
+            ViewData["myname"] = fullname.Firstname + " " + fullname.Lastname;
+            return View("Index");
         }
 
         public IActionResult Info()
         {
+            int x = 300;
+            int y = 200;
+            var result = 0;
+
+            Add(x, y);
+
+            void Add(int x, int y)
+            {
+                result = x + y;
+            }
+
+            ViewData["result"] = result;
             return View();
         }
 
