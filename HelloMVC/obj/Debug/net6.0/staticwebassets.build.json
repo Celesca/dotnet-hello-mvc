@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LP7pX6PbCoMkuChm85T0wM/QGlXwYB65Wo0NPQmiFzs=",
+  "Hash": "46bdXfme8D2SZPswsA+HJveb5U7mBtyGfnrroJs/xEE=",
   "Source": "HelloMVC",
   "BasePath": "_content/HelloMVC",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HelloMVC.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\wwwroot\\css\\Main.css",
+      "SourceId": "HelloMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\wwwroot\\",
+      "BasePath": "_content/HelloMVC",
+      "RelativePath": "css/Main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Main.css"
     },
     {
       "Identity": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\wwwroot\\css\\site.css",

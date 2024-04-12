@@ -29,3 +29,5 @@ D:\Programming\ASP.NET Core MVC\HelloMVC\HelloMVC\obj\Debug\net6.0\HelloMVC.pdb
 D:\Programming\ASP.NET Core MVC\HelloMVC\HelloMVC\obj\Debug\net6.0\HelloMVC.genruntimeconfig.cache
 D:\Programming\ASP.NET Core MVC\HelloMVC\HelloMVC\obj\Debug\net6.0\ref\HelloMVC.dll
 D:\Programming\ASP.NET Core MVC\HelloMVC\HelloMVC\obj\Debug\net6.0\HelloMVC.sourcelink.json
+D:\Programming\ASP.NET Core MVC\HelloMVC\HelloMVC\obj\Debug\net6.0\scopedcss\Views\Customer\Index.cshtml.rz.scp.css
+D:\Programming\ASP.NET Core MVC\HelloMVC\HelloMVC\obj\Debug\net6.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css

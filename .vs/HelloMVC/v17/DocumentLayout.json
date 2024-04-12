@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42204A2A-FD0F-42E4-BA10-7B0F3C0D29F4}|HelloMVC\\HelloMVC.csproj|d:\\programming\\asp.net core mvc\\hellomvc\\hellomvc\\views\\home\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42204A2A-FD0F-42E4-BA10-7B0F3C0D29F4}|HelloMVC\\HelloMVC.csproj|solutionrelative:hellomvc\\views\\home\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42204A2A-FD0F-42E4-BA10-7B0F3C0D29F4}|HelloMVC\\HelloMVC.csproj|d:\\programming\\asp.net core mvc\\hellomvc\\hellomvc\\views\\customer\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42204A2A-FD0F-42E4-BA10-7B0F3C0D29F4}|HelloMVC\\HelloMVC.csproj|solutionrelative:hellomvc\\views\\customer\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42204A2A-FD0F-42E4-BA10-7B0F3C0D29F4}|HelloMVC\\HelloMVC.csproj|d:\\programming\\asp.net core mvc\\hellomvc\\hellomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42204A2A-FD0F-42E4-BA10-7B0F3C0D29F4}|HelloMVC\\HelloMVC.csproj|solutionrelative:hellomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42204A2A-FD0F-42E4-BA10-7B0F3C0D29F4}|HelloMVC\\HelloMVC.csproj|d:\\programming\\asp.net core mvc\\hellomvc\\hellomvc\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42204A2A-FD0F-42E4-BA10-7B0F3C0D29F4}|HelloMVC\\HelloMVC.csproj|solutionrelative:hellomvc\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42204A2A-FD0F-42E4-BA10-7B0F3C0D29F4}|HelloMVC\\HelloMVC.csproj|d:\\programming\\asp.net core mvc\\hellomvc\\hellomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,11 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.css",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\Views\\Home\\Index.cshtml.css",
+              "RelativeDocumentMoniker": "HelloMVC\\Views\\Home\\Index.cshtml.css",
+              "ToolTip": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\Views\\Home\\Index.cshtml.css",
+              "RelativeToolTip": "HelloMVC\\Views\\Home\\Index.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T14:53:19.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml.css",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\Views\\Customer\\Index.cshtml.css",
+              "RelativeDocumentMoniker": "HelloMVC\\Views\\Customer\\Index.cshtml.css",
+              "ToolTip": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\Views\\Customer\\Index.cshtml.css",
+              "RelativeToolTip": "HelloMVC\\Views\\Customer\\Index.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T14:51:11.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.css",
+              "DocumentMoniker": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\wwwroot\\css\\Main.css",
+              "RelativeDocumentMoniker": "HelloMVC\\wwwroot\\css\\Main.css",
+              "ToolTip": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\wwwroot\\css\\Main.css",
+              "RelativeToolTip": "HelloMVC\\wwwroot\\css\\Main.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T14:48:43.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HelloMVC\\Views\\Home\\Index.cshtml",
@@ -51,20 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HelloMVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "HelloMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-12T14:18:25.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "HelloMVC\\Controllers\\CustomerController.cs",
@@ -77,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\Models\\Product.cs",
               "RelativeDocumentMoniker": "HelloMVC\\Models\\Product.cs",
@@ -90,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Data.cshtml",
               "DocumentMoniker": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\Views\\Home\\Data.cshtml",
               "RelativeDocumentMoniker": "HelloMVC\\Views\\Home\\Data.cshtml",
@@ -103,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "HelloMVC\\Controllers\\HomeController.cs",
