@@ -28,3 +28,4 @@ D:\Programming\ASP.NET Core MVC\HelloMVC\HelloMVC\obj\Debug\net6.0\refint\HelloM
 D:\Programming\ASP.NET Core MVC\HelloMVC\HelloMVC\obj\Debug\net6.0\HelloMVC.pdb
 D:\Programming\ASP.NET Core MVC\HelloMVC\HelloMVC\obj\Debug\net6.0\HelloMVC.genruntimeconfig.cache
 D:\Programming\ASP.NET Core MVC\HelloMVC\HelloMVC\obj\Debug\net6.0\ref\HelloMVC.dll
+D:\Programming\ASP.NET Core MVC\HelloMVC\HelloMVC\obj\Debug\net6.0\HelloMVC.sourcelink.json
