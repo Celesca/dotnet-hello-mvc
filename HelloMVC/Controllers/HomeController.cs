@@ -21,6 +21,12 @@ namespace HelloMVC.Controllers
             return View("Index");
         }
 
+        public IActionResult Data()
+        {
+            Product product = new Product(1, "Carrot", 150.35f);
+            return View("Data", product);
+        }
+
         public IActionResult Info()
         {
             int x = 300;

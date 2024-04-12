@@ -1,4 +1,5 @@
 ﻿using HelloMVC.Models;
+using HelloMVC.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HelloMVC.Controllers
@@ -18,6 +19,14 @@ namespace HelloMVC.Controllers
             ViewData["AllCustomers"] = GetAllCustomers();
             ViewData["AllProducts"] = GetAllProducts();
             return View();
+        }
+
+        public IActionResult ViewModelTransaction()
+        {
+            CustomersProductsViewModels data = new CustomersProductsViewModels();
+            data.GetCustomers = GetAllCustomers();
+            data.GetProducts = GetAllProducts();
+            return View(data);
         }
 
         public List<Customer> GetAllCustomers()
