@@ -1,19 +1,11 @@
-﻿@page
-@model HelloMVC.Views.Home.Info
-
-@{
-    Layout = null;
+﻿@{
+    ViewData["Title"] = "Home Page";
 }
 
-<!DOCTYPE html>
-
-<html>
-<head>
-    <title></title>
-</head>
-<body>
-<div>
-    Info Page
+<div class="text-center">
+    <h1 class="display-4">Welcome Info page</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core"></a>ASP.NET core</p>
+    <div> 
+        <h1>@ViewData["result"]</h1>
+    </div>
 </div>
-</body>
-</html>
