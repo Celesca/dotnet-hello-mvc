@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Customer Transaction";
+}
+
+<div class="container">
+    <table class="table">
+        <h1 class="text-center">Customer Table</h1>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.AllCustomers)
+            {
+                <tr>
+                    <td>@item.CustomerID</td>
+                    <td>@item.FullName</td>
+                    <td>@item.Address</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <table class="table">
+        <h1 class="text-center">Product Table</h1>
+        <thead>
+            <tr>
+                <th>ProductID</th>
+                <th>ProductName</th>
+                <th>ProductAddress</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.AllProducts)
+            {
+                <tr>
+                    <td>@item.ProductID</td>
+                    <td>@item.ProductName</td>
+                    <td>@item.ProductPrice</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
