@@ -1,3 +1,21 @@
+/* _content/HelloMVC/Views/Customer/Index.cshtml.rz.scp.css */
+body[b-ttw5yt5z8e] {
+    background: yellow;
+}
+
+p[b-ttw5yt5z8e] {
+    color: red;
+        font-size: 20px;
+}
+/* _content/HelloMVC/Views/Home/Index.cshtml.rz.scp.css */
+body[b-rd48tmr04f] {
+    background: yellow;
+}
+
+p[b-rd48tmr04f] {
+    color: red;
+    font-size: 20px;
+}
 /* _content/HelloMVC/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */

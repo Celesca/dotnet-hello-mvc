@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\HelloMVC.bundle.scp.css"
     },
     {
+      "Id": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\wwwroot\\css\\Main.css",
+      "PackagePath": "staticwebassets\\css\\Main.css"
+    },
+    {
       "Id": "D:\\Programming\\ASP.NET Core MVC\\HelloMVC\\HelloMVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
